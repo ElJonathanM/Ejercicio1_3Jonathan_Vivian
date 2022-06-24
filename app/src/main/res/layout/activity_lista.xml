@@ -23,7 +23,8 @@
                 android:layout_marginLeft="16dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginRight="16dp"
-                android:text="Seleccione el item que desea editar o eliminar de la lista" />
+                android:text="Seleccione el item que desea modificar o eliminar."
+                app:autoSizeTextType="uniform" />
 
             <ListView
                 android:id="@+id/listar"
